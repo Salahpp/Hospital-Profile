@@ -1,0 +1,1012 @@
+@import url('../../css2');
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.poppins-bold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.poppins-extrabold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.poppins-black-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+main {
+    max-width: 767px;
+    margin: 0 auto;
+}
+section.banner img {
+    width: 100%;
+    max-height: 210px;
+    object-fit: cover;
+    min-height: 210px;
+}
+section.sec_one .container {
+    max-width: 85%;
+}
+section.sec_one .logo {
+    margin-top: -50px;
+}
+section.sec_one .logo img {
+    border-radius: 100px;
+    border: 7px solid rgb(255 255 255 / 60%);
+    filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.05));
+    box-shadow: 1px 1px 6px 5px #0000000d;
+    margin-bottom: 15px;
+}
+.color_blue{
+    color: #004185;
+}
+.color_light_grey {
+    color: #999;
+}
+.color_dark_grey {
+    color: #777;
+}
+.color_green{
+    color: #4CAF50;
+}
+section.sec_one {
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #e3edf3;
+}
+.header {
+  z-index: 99;
+}
+.header.sticky {
+    box-shadow: 0px 0px 20px #E3EDF3;
+    /* border-bottom: 1px solid #E3EDF3; */
+    background: #fff;
+}
+.header.sticky .tab__bar {
+    margin-top: 15px;
+}
+.header.sticky ul.tab__menu {
+    margin-bottom: 15px;
+}
+.sticky {
+  position: fixed !important;
+  top: 0;
+  width: 100%;
+}
+section.sec_two .tab_one_socialmedia ul li:last-child {
+    padding-bottom: 10px !important;
+}
+section.sec_two .tab_one_socialmedia ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 0;
+}
+section.sec_one ul {
+    padding: 0;
+    float: left;
+    width: 100%;
+    display: flex;
+    margin: 20px 0;
+}
+section.sec_one ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 15px;
+}
+section.sec_one ul li .icon {
+    background: #E3EDF3;
+    border-radius: 100px;
+    width: 52px;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section.sec_one h1 {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+section.sec_one h6 {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+section.sec_one h6 span{
+    padding-left: 10px;
+    font-weight: 400;
+}
+section.sec_one ul li .icon img {
+    width: 23px;
+}
+section.sec_one ul li .icon.google_review {
+    width: auto;
+    font-size: 12px;
+    line-height: 12px;
+    padding:10px;
+}
+section.sec_one ul li .icon.google_review span {
+    padding-left: 10px;
+    font-weight: 500;
+}
+section.sec_two {
+    float: left;
+    width: 100%;
+}
+section.sec_one ul li:last-child{
+    margin-right: 0;
+}
+
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr h6 {
+    font-size: 14px;
+    font-weight: 500;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr h6.education {
+    color: #333;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr h6 span {
+    margin-right: 5px;
+}
+.col_wrapper.tab_one_doctors .col_wrapper_doctors_fee li {
+    width: 50%;
+    float: left;
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+
+.col_wrapper.tab_one_doctors ul {
+    float: left;
+    width: 100%;
+}
+.col_wrapper.tab_one_doctors .col_wrapper_doctors_fee ul li:last-child {
+    width: 70%;
+}
+.col_wrapper.tab_one_doctors .col_wrapper_doctors_fee ul {
+    background: #fff;
+    border-radius: 6px;
+    padding: 10px !important;
+    border: 1px solid#E3EDF3;
+    min-height: 83px;
+    margin-bottom: 0;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr h6.language {
+    margin-bottom: 20px;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_rgt .doctor_phone_icon {
+    width: 48px;
+    height: 48px;
+    background: #e3edf3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    float: right;
+}
+.col_wrapper.tab_one_doctors .col_wrapper_doctors_fee ul li.icon {
+    text-align: right !important;
+    float: right !important;
+    display: unset;
+}
+.col_wrapper.tab_one_doctors .col_wrapper_doctors_fee li.doctor_fee.color_green {
+    font-size: 14px;
+    font-weight: 500;
+}
+.col_wrapper.tab_one_doctors .col_wrapper_doctors_fee li.meet_place {
+    font-size: 12px;
+    font-weight: 600;
+    color: #333;
+}
+
+/*tab css start*/
+
+
+.container {
+  position: relative;
+/* animation hide */
+/*  transition: 0.5s ease;*/
+  width: 100%;
+}
+
+.tab__bar {
+    position: relative;
+    margin: 20px 0 0;
+}
+.tab__bar .tab__navigation {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: -webkit-fit-content;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+}
+.tab__bar .tab__menu {
+  color: var(--text-color);
+  list-style: none;
+  max-width: 800px;
+  white-space: nowrap;
+  scroll-behavior: smooth;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  overflow-x: auto;
+  padding-left: 0;
+}
+.tab__bar .tab__menu.dragging {
+  scroll-behavior: unset;
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+.tab__bar .tab__menu.dragging .tab-btn {
+  pointer-events: none;
+}
+.tab__bar .tab__menu::-webkit-scrollbar {
+  display: none;
+}
+.tab__bar .tab__menu .tab__btn {
+    display: inline-block;
+    color: var(--text-color);
+    font-size: 1em;
+    font-weight: 400;
+    margin: 0 2px;
+    padding: 8px 18px;
+    border-radius: 30px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    transition: background-color 0.3s ease;
+    border: 1px solid#E3EDF3;
+    font-size: 14px;
+    font-weight: 500;
+    color: #999999;
+}
+.tab__bar .tab__menu .tab__btn:hover {
+  background-color: var(--first-color);
+}
+.tab__bar .tab__menu .tab__btn.active {
+  background-color: #E3EDF3;
+  border: 1px solid#E3EDF3;
+  color: #004185;
+}
+.tab__bar .left__btn,
+.tab__bar .right__btn {
+  position: absolute;
+  color: var(--text-color);
+  font-size: 1.8em;
+  cursor: pointer;
+}
+.tab__bar .left__btn svg,
+.tab__bar .right__btn svg {
+  width: 20px;
+  height: 20px;
+  display: none;
+}
+.tab__bar .left__btn svg path,
+.tab__bar .right__btn svg path {
+  fill: #fff;
+}
+.tab__bar .left__btn {
+  display: none;
+  left: -5px;
+  background: linear-gradient(to left, transparent, var(--first-color) 60%);
+  padding: 10px 30px 10px 0;
+}
+.tab__bar .right__btn {
+  right: -5px;
+  background: linear-gradient(to right, transparent, var(--first-color) 60%);
+  padding: 10px 0 10px 30px;
+  display: none !important;
+}
+section.sec_two .container.tab_wrapper {
+    padding-right: 0;
+    max-width: 100%;
+}
+section.sec_two .container {
+    max-width: 95%;
+}
+.tab__content {
+  position: relative;
+}
+.tab__content .tab {
+    display: none;
+/*  animation hide  */
+    /*-webkit-animation: fadein 0.8s;
+    animation: fadein 0.8s;*/
+}
+
+.tab__content .tab .col_wrapper {
+    position: relative;
+    width: 100%;
+    padding: 30px 20px 10px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 20px #E3EDF3;
+    border-radius: 20px;
+}
+/*.tab__content .tab {
+    position: relative;
+    width: 100%;
+    padding: 30px 20px 0;
+    display: none;
+    -webkit-animation: fadein 0.8s;
+    animation: fadein 0.8s;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px #E3EDF3;
+    border-radius: 20px;
+}*/
+section.sec_two .row.contact_details ul li:first-child{
+    padding-top: 0;
+}
+.tab__content .tab h2 {
+    padding-bottom: 15px;
+}
+section.sec_two .row.contact_details ul li:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+.tab__content .tab.active {
+  display: flex;
+      align-items: center;
+    justify-content: center;
+}
+.tab__content .tab .row {
+  width: 100%;
+}
+section.sec_two .row.contact_details ul {
+    padding: 0;
+}
+
+section.sec_two .row.contact_details ul li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+section.sec_two .row.contact_details ul li span {
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+    color: #999999;
+}
+section.sec_two .row.contact_details ul li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 14px;
+    font-weight: 500;
+    border-bottom: 1px solid #e3edf3;
+    padding: 10px 0;
+}
+section.sec_two .row.contact_details h2 {
+    font-size: 18px;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #4CAF50;
+    margin-bottom: 0;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_lft {
+    float: left;
+    width: 15%;
+    padding-left:0;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_lft img {
+    min-width: 75px;
+    max-width: 75px;
+    border-radius: 10px;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr {
+    float: left;
+    width: 70%;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors  .col_wrapper_rgt {
+    float: left;
+    width: 15%;
+    text-align: right;
+    padding-right: 0;
+}
+.row_wrapper_tab_one_doctors:last-child {
+    border: none;
+}
+.tab_one_treatments .accordion-button:focus {
+    box-shadow: none;
+}
+.tab_one_treatments .accordion-button {
+    font-size: 14px;
+    font-weight: 500;
+    color: #004185;
+}
+.tab_one_treatments .accordion .accordion-item .accordion-body {
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+}
+.tab_one_treatments .accordion .accordion-item {
+    border: var(--bs-accordion-border-width) solid #e3edf3;
+}
+.tab_one_treatments .accordion-button:not(.collapsed){
+    background: #e3edf3;
+}
+
+.tab_one_treatments h2.accordion-header {
+    padding-bottom: 0 !important;
+}
+.row_wrapper_tab_one_doctors {
+    margin: 0;
+    padding: 20px 0;
+    border-bottom: 1px solid #e3edf3;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr h3 {
+    font-size: 18px;
+    font-weight: 500;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_doctors_fee.clinic_fee {
+    padding-left: 0;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_doctors_fee.home_fee {
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_doctors_fee.video_call_fee {
+    padding-right: 0;
+}
+/**{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -msbox-sizing: border-box;
+}
+body{
+   overflow-x: hidden;
+}
+img{
+   max-width:100%;
+}*/
+
+/*start gallery css*/
+*, *::before, *::after {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+     list-style: none;
+     list-style-type: none;
+     text-decoration: none;
+     -moz-osx-font-smoothing: grayscale;
+     -webkit-font-smoothing: antialiased;
+     text-rendering: optimizeLegibility;
+}
+
+ .main_galley .container {
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+     grid-gap: 1rem;
+     justify-content: center;
+     align-items: center;
+     padding: 0;
+     max-width: 100% !important;
+}
+ .main_galley .card {
+     color: #252a32;
+     border-radius: 2px;
+     background: #fff;
+     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.24);
+}
+ .main_galley .card-image {
+     position: relative;
+     display: block;
+     width: 100%;
+     padding-top: 70%;
+     background: #fff;
+}
+ .main_galley .card-image img {
+     display: block;
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+}
+
+/*end gallery css*/
+footer {
+    float: left;
+    width: 100%;
+}
+footer .container {
+    max-width: 95%;
+}
+footer button.share {
+    position: fixed;
+    bottom: 20px;
+    background: #004185;
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 20px;
+    z-index: 9;
+}
+footer button.add_to_contact {
+    position: fixed;
+    bottom: 20px;
+    background: #4CAF50;
+    height: 50px;
+    border: none;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: 20px;
+    font-size: 14px;
+    color: #fff;
+    text-align: left;
+    padding: 5px 5px 5px 20px;
+    line-height: 14px;
+    z-index: 9;
+}
+footer button.add_to_contact img {
+    margin-left: 10px;
+}
+.tab_one_socialmedia ul{
+    margin-bottom: 0;
+}
+.tab_one_socialmedia ul li {
+    display: flex !important;
+    width: 50px;
+    height: 50px;
+    border: 1px solid#e3edf3 !important;
+    text-align: center;
+    border-radius: 100px;
+    margin-right: 10px;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.tab_one_socialmedia ul li:first-child{
+    padding: 10px 0 !important;
+}
+.tab_one_socialmedia {
+    margin-bottom: 90px !important;
+}
+section.sec_one ul li a {
+    text-decoration: none;
+}
+address{
+    margin: 0;
+}
+.tab_one_about img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.tab_one_about p{
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+}
+.social_media_wrapper .tab_one_socialmedia {
+    margin-bottom: 40px !important;
+}
+main {
+    background: #fff !important;
+    display: flow-root;
+}
+body {
+    background: #004185;
+}
+.col_wrapper_doctors_fee ul li {
+    border: none !important;
+}
+section.sec_two .row.contact_details ul a {
+    text-decoration: none !important;
+    color: #004185 !important;
+}
+.row.contact_details.contact_tab_one {
+    margin-bottom: 90px;
+}
+.pricing_plan_tab_main .tab_one_pricing_pan img {
+    width: 100%;
+}
+.pricing_plan_tab_main .tab_one_pricing_pan ul li img{
+    width: auto;
+}
+.pricing_plan_tab_main .tab_one_pricing_pan ul li {
+    display: unset !important;
+    float: left;
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+    margin-right: 30px;
+    border-right: 1px solid #e3edf3;
+    border-bottom: none !important;
+}
+.pricing_plan_container .pricing_plan_tab_main ul li:first-child {
+    width: inherit;
+}
+.pricing_plan_tab_main .tab_one_pricing_pan ul {
+    float: left;
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 15px 20px !important;
+    margin-bottom: 10px;
+    background: #e3edf3;
+}
+section.sec_two .container .row {
+    margin-left: 0;
+}
+.pricing_plan_tab_main .tab_one_pricing_pan ul li:last-child {
+    border-right: none !important;
+    margin-right: 0;
+}
+.pricing_plan_tab_main .tab_one_pricing_pan ul li:last-child img {
+    margin-right: 5px;
+}
+.pricing_plan_tab_main .tab_one_pricing_pan ul li img {
+    width: 22px;
+}
+.tab__content .tab .tab_one_pricing_pan {
+    padding: 0;
+}
+.pricing_plan_container {
+    max-width: 100% !important;
+    padding: 0;
+}
+.pricing_plan_container .pricing_plan_tab_main {
+    padding: 0;
+    margin: 0;
+}
+.pricing_plan_container .pricing_plan_tab_main h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.container.pricing_plan_container .col_wrapper.tab_one_pricing_pan {
+    box-shadow: none !important;
+}
+/*=============================================================================================================
+/*media query start
+=============================================================================================================*/
+
+
+@media (max-width: 767px) {
+  /*.tab__content .tab .row {
+    flex-direction: column;
+  }*/
+/*  .tab_one_doctors .col_wrapper_lft {
+    width: 20%;
+}
+
+.tab_one_doctors .col_wrapper_ctr {
+    width: 60%;
+}
+
+.tab_one_doctors .col_wrapper_rgt {
+    width: 20%;
+}*/
+body {
+    background: none;
+}
+.tab__content .left-column,
+.tab__content .right-column {
+  width: 50%;
+  max-width: 500px;
+}
+@media (max-width: 767px) {
+  .tab__content .left-column,
+.tab__content .right-column {
+    width: 100%;
+    max-width: 700px;
+  }
+}
+.tab__content .left-column {
+  display: flex;
+  align-items: center;
+}
+.tab__content .left-column .img-card {
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: var(--box-shadow);
+}
+.tab__content .left-column .img-card img {
+  width: 100%;
+}
+.tab__content .info .city {
+  margin-bottom: 15px;
+  font-size: 32px;
+}
+.tab__content .info .description {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.8;
+}
+@media (max-width: 767px) {
+  .tab__content .info .description {
+    text-align: justify;
+  }
+}
+.tab__content .info .city, .tab__content .info .description {
+  color: var(--text-color);
+}
+@media (max-width: 767px) {
+  .tab__content .info .city, .tab__content .info .description {
+    text-align: center;
+  }
+}
+
+@-webkit-keyframes fadein {
+  0% {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadein {
+  0% {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+/*tab css end*/
+
+
+
+
+/*media query start*/
+@media screen and (max-width:640px){
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_lft {
+    width: 18%;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors  .col_wrapper_rgt {
+    width: 12%;
+}
+}
+@media screen and (max-width:575px){
+/*  gallery media query start  */
+.main_galley .container {
+     display: grid;
+     grid-template-columns: repeat(2, 1fr);
+     grid-gap: 1rem;
+}
+/*  gallery media query end  */
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_doctors_fee {
+    width: 33.333%;
+}
+}
+@media screen and (max-width:560px){
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_lft {
+    width: 21%;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr {
+    width: 67%;
+}
+section.sec_two .container {
+    max-width: 98%;
+}
+}
+@media screen and (max-width:490px){
+.col_wrapper.tab_one_doctors .col_wrapper_doctors_fee ul li:last-child {
+    width: 100%;
+}
+}
+@media screen and (max-width:480px){
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_lft {
+    float: left;
+    width: 24%;
+}
+    .col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr {
+        float: left;
+        width: 64%;
+    }
+}
+@media screen and (max-width:460px){
+    section.sec_one .container {
+    max-width: 90%;
+}
+section.sec_one ul li{
+        margin-right: 15px;
+    }
+}
+@media screen and (max-width:440px){
+    section.sec_one ul{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    section.sec_one ul li{
+        margin-right: 0;
+    }
+    section.sec_one .container {
+    max-width: 90%;
+}
+}
+@media screen and (max-width:400px){
+section.sec_one .container {
+    max-width: 95%;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr h6 span {
+    margin-top: 5px;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr h6 span label {
+    display: none;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr h6.time span {
+    display: unset;
+    margin-top: 0;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr h6.time {
+    line-height: 20px;
+    display: inline-flex;
+}
+section.sec_one ul li .icon.google_review {
+    width: 110px;
+    display: inline-flex;
+    padding: 10px 15px;
+}
+section.sec_two .container {
+    max-width: 100%;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_doctors_fee.video_call_fee {
+    padding-left: 7.5px;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_doctors_fee.clinic_fee {
+    padding-right: 7.5px;
+}
+.col_wrapper.tab_one_doctors .col_wrapper_doctors_fee ul li:last-child {
+    line-height: 16px;
+    margin-top: 5px;
+}
+}
+@media screen and (max-width:383px){
+.col_wrapper.tab_one_doctors .col_wrapper_doctors_fee ul {
+    padding: 10px 5px !important;
+}
+}
+@media screen and (max-width:380px){
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_lft img {
+    min-width: 60px;
+    max-width: 60px;
+    border-radius: 10px;
+}
+.col_wrapper.tab_one_doctors .row_wrapper_tab_one_doctors .col_wrapper_ctr h6 span {
+    display: block;
+}
+}
+@media screen and (max-width:360px){
+section.sec_one ul li .icon {
+    width: 55px;
+    height: 55px;
+}
+    section.sec_one ul li .icon.google_review {
+        width: 102px;
+        padding: 10px;
+    }
+    section.sec_one ul li .icon.google_review span {
+    padding-left: 5px;
+    width: 59%;
+}
+}
+@media screen and (max-width:353px){
+.col_wrapper.tab_one_doctors .col_wrapper_doctors_fee ul {
+    min-height: 100px;
+}
+}
+@media screen and (max-width:340px){
+section.sec_one ul li .icon {
+    width: 50px;
+    height: 50px;
+}
+}

@@ -1,0 +1,272 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
+File Name: C:\Users\salah\Downloads\techaddax.com\npm\bootstrap@5.3.3\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js
+File Name: C:\Users\salah\Downloads\techaddax.com\npm\bootstrap@5.3.3\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css
+File Name: C:\Users\salah\Downloads\techaddax.com\ajax\libs\fancybox\3.5.7\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js
+File Name: C:\Users\salah\Downloads\techaddax.com\ajax\libs\fancybox\3.5.7\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Users\salah\Downloads\techaddax.com\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Users\salah\Downloads\techaddax.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Users\salah\Downloads\techaddax.com\s\poppins\v21\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://techaddax.com/myprofile/
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\index.htm
+Content Type: text/html
+
+Uri: https://techaddax.com/myprofile/css/style.css
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\css\style.css
+Content Type: text/css
+
+Uri: https://techaddax.com/myprofile/images/address_secondary.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\address_secondary.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/add_contact_plus_icon.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\add_contact_plus_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/banner.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/clinic_icon.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\clinic_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/clock.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\clock.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/clock_icon.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\clock_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/contact.vcf
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\contact.vcf
+Content Type: text/x-vcard
+
+Uri: https://techaddax.com/myprofile/images/doctor_01.png
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\doctor_01.png
+Content Type: image/png
+
+Uri: https://techaddax.com/myprofile/images/doctor_02.png
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\doctor_02.png
+Content Type: image/png
+
+Uri: https://techaddax.com/myprofile/images/doctor_03.png
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\doctor_03.png
+Content Type: image/png
+
+Uri: https://techaddax.com/myprofile/images/doctor_04.png
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\doctor_04.png
+Content Type: image/png
+
+Uri: https://techaddax.com/myprofile/images/email_secondary.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\email_secondary.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/fb.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\fb.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/gallery01.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\gallery01.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/gallery02.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\gallery02.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/gallery03.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\gallery03.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/gallery04.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\gallery04.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/gallery05.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\gallery05.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/gallery06.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\gallery06.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/gallery07.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\gallery07.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/gallery08.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\gallery08.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/gallery09.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\gallery09.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/google_primary.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\google_primary.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/home_icon.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\home_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/insta.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\insta.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/logo.png
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\logo.png
+Content Type: image/png
+
+Uri: https://techaddax.com/myprofile/images/map_primary.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\map_primary.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/phone_primary.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\phone_primary.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/phone_secondary.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\phone_secondary.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/plan01.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\plan01.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/plan02.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\plan02.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/plan03.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\plan03.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/plan04.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\plan04.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/plan05.jpg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\plan05.jpg
+Content Type: image/jpeg
+
+Uri: https://techaddax.com/myprofile/images/share_icon.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\share_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/twitter.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/video_icon.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\video_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/website_secondary.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\website_secondary.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/whatsapp_primary.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\whatsapp_primary.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/whatsapp_secondary.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\whatsapp_secondary.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/images/youtube.svg
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\images\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://techaddax.com/myprofile/js/script.js
+File Name: C:\Users\salah\Downloads\techaddax.com\myprofile\js\script.js
+Content Type: text/javascript
+
